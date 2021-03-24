@@ -1,0 +1,4 @@
+edc==0.3.10
+respond-model==0.1.3
+git+https://github.com/erikvw/django-import-export@get_export_admin_action
+beautifulsoup4
