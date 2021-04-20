@@ -9,6 +9,11 @@ A randomised placebo-controlled double-blind phase III trial to determine the ef
 
 Liverpool School of Tropical Medicine
 
+EDCTP grant number: RIA2018CO-2513
+
+Trial registration: ISCRTN 77382043
+ 
+
 
 .. |pypi| image:: https://img.shields.io/pypi/v/meta3-edc.svg
     :target: https://pypi.python.org/pypi/meta3-edc
